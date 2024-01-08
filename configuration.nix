@@ -96,7 +96,6 @@
       git
       neofetch
       htop
-      docker
     ];
   };
 
